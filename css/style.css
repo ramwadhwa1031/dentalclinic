@@ -1,3 +1,15 @@
+.img-fluid{
+    width: 340px;
+    height: 190px;
+}
+.team-item{
+    width: 300px;
+    max-height: 350px; 
+    margin-bottom: 20px;
+}
+/*
+
+*/
 /*
  * Container - Button
  */
