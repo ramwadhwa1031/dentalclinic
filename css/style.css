@@ -429,8 +429,14 @@ h6,
     }
     .box-mobile{
         margin: 0;
-        padding: 0px;
+        padding: 1rem !important;
     } 
+    .banner{
+        margin-bottom: 0rem !important;
+    }
+    .aboutmb{
+        padding-top: 0rem !important;
+    }
     .d-flex h6{
         font-size: 10px;
     }
