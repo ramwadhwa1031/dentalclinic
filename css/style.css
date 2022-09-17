@@ -7,6 +7,9 @@
     max-height: 350px; 
     margin-bottom: 20px;
 }
+.hr{
+    margin-top: 10px;
+}
 /*
 
 */
@@ -432,8 +435,8 @@ h6,
         padding: 1rem !important;
     } 
     .banner{
-        margin-bottom: 0rem !important;
-    }
+        display: none;
+         }
     .aboutmb{
         padding-top: 1rem !important;
     }
